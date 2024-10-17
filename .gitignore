@@ -1,0 +1,5 @@
+# Ignore specific file types
+*.csv
+*.png
+*.txt
+
